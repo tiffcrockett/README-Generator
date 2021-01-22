@@ -32,9 +32,9 @@ README-Generator is a command-line application built using NODE.js.  NODE.js is 
 3. Run npm i 
 4. node index to begin. 
 
-## Deployed-Link to Example Video
+## Example Video
 
-https://drive.google.com/drive/u/0/my-drive
+<iframe src="https://drive.google.com/file/d/1nwbvBwp3Dnp1O-JKOMx4qk3SJSv1wCxU/preview" width="640" height="480"></iframe>
 
 ## Contact
 
