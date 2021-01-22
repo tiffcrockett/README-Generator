@@ -32,13 +32,9 @@ README-Generator is a command-line application built using NODE.js.  NODE.js is 
 3. Run npm i 
 4. node index to begin. 
 
-## Deployed-Link
+## Deployed-Link to Example Video
 
-https://tiffcrockett.github.io/README-Generator/
-
-## License
-
-Licensed under [MIT](https://choosealicense.com/licenses/mit/) license.  
+https://drive.google.com/drive/u/0/my-drive
 
 ## Contact
 
