@@ -14,19 +14,19 @@
 
 ## Description
           
-Describe your project. When done, save and exit the editor. Your info will be retained. Go to the next question. 
+Describe your project.  Save and exit the editor. 
 
 ## Installation
                   
-Instructions for your application.
+install instructions
 
 ## Usage
           
-List steps to use your application here.
+steps to use your app
 
 ## Contributing
                   
-Guidelines.
+guidelines
 
 ## Test
                     
@@ -40,8 +40,8 @@ Apache License 2.0
                     
 Comments or questions?  You can reach me at:
 
-yourusername
+username
 
-github.com/yourusername
+github.com/username
 
-youremail@youremail.com
+your email address
