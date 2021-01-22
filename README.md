@@ -11,9 +11,9 @@
 
 ## Description
 
-Developers often create open source projects on GitHub.  It is important to have a quality README with information about the application so that other developers are more likely to contribute to the success of the project.  This README Generator is a command-line application that simplifies the process for the developer utilizing prompts to gather the necessary information to produce a professional, comprehensive README and allows the developer to spend more time working on finishing the project and less time creating a good README. 
+Developers often create open source projects on GitHub.  It is important to have a quality README with information about the application so that other developers are more likely to contribute to the success of the project.  This README Generator is a command-line application that simplifies the process for the developer utilizing prompts to gather the necessary information to produce a professional, comprehensive README. Using the README Generator allows a developer to spend more time working on finishing the project and less time creating a good README. 
 
-The application obtains information about the title, description, installation , usage, license, how others can contribute and how to test the application. Developer contact information is provided. And lastly, a Table of Contents links the reader to the corresponding area of the README.
+The application obtains information about the title, description, installation , usage, license, how others can contribute, and how to test the application. Developer contact information is provided at the bottom of the page. And lastly, a Table of Contents links the reader to the corresponding area of the README.
 
 
 ## Application-Images
