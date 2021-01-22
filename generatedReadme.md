@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
-# best
+# Best App Ever
                     
 ## Table of Contents
 * [Description](#description)
@@ -16,24 +16,24 @@
 
 ## Description
           
-describe
+describe project here.
  
 
 ## Installation
                   
-install
+how to install
 
 ## Usage
           
-steps
+steps to use the app
 
 ## Contributing
                   
-guidelines
+guidelines for contributing
 
 ## Test
                     
-undefined
+how to test
 
 ## License
                     

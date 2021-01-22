@@ -31,7 +31,7 @@ inquirer
     {
         type: 'input',
         message: 'Provide instructions on how to test your application?',
-        name: 'tests',
+        name: 'test',
     }, 
     {
         type: 'list',
