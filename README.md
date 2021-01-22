@@ -34,7 +34,7 @@ README-Generator is a command-line application built using NODE.js.  NODE.js is 
 
 ## Deployed Link - Example Video
 
-<iframe src="https://drive.google.com/file/d/1nwbvBwp3Dnp1O-JKOMx4qk3SJSv1wCxU/preview" width="640" height="480"></iframe>
+https://drive.google.com/file/d/1nwbvBwp3Dnp1O-JKOMx4qk3SJSv1wCxU/preview
 
 ## Contact
 
