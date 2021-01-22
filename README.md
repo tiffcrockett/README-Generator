@@ -19,7 +19,7 @@ The application obtains information about the title, description, installation ,
 ## Application-Images
 
 ### Desktop Screenshot
-![Screenshot of desktop webpage](https://github.com/tiffcrockett/06-Weather-Dashboard/blob/main/assets/images/Dashboard-desktop.png?)
+![Screenshot of desktop webpage](https://github.com/tiffcrockett/README-Generator/blob/main/rdmegen.png?)
 
 ## Installation
 
